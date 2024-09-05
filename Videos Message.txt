@@ -1,0 +1,27 @@
+*Dear All,*
+
+Kindly find the below link for daily classes videos, documents, and lab setup.
+
+*https://drive.google.com/drive/folders/1pIqYdLvv1AZjUyhqOPQJ6JFFSyfX5kI1?usp=drive_link*
+
+*Note: *No seperate videos link every day
+
+*The above folder contains the below information.*
+*1) ALL Videos and Materials [ Day wise ]:*
+	a) Power Query, Pivot, View, Map
+	b) Power BI Service
+	c) Power Report BI Server
+	d) Paginated Report Builder
+	e) GitHub
+	f) Projects
+	g) Case Study
+	h) Resume Preparation and Interview Guidance
+	i) Azure Basics
+*2) Lab Setup*
+	Which has different types of files and database setups to use in 
+	multiple paces
+
+*3) Power BI Check List* [Power BI + SQL] and Interview Guidance Excel
+
+Best Regards,
+*SRI VINAY TECH HOUSE.*
